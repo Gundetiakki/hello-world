@@ -1,6 +1,4 @@
 # hello-world
-My first Github Repository
-
 Hi GitHub
 
 This is Aakash Gundeti from Mumbai, India.
